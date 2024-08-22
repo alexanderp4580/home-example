@@ -3,7 +3,7 @@ email: your-email@example.com
 description: >- 
   TODO.
 baseurl: "/home-example"
-url: "https://alexanderp4580.github.io/home-example"
+url: "https://alexanderp4580.github.io"
 github_username:  alexanderp4580
 permalink: /:slug
 remote_theme: abhinavs/moonwalk
@@ -15,7 +15,7 @@ theme_config:
   appearance_toggle: true
   back_home_text: "home.."
   date_format: "-%d %M %y"
-  show_description: true # show blog description
+  show_description: false # show blog description
   show_copyright: true # show copyright notice in footer
   show_projects: false # show projects as cards, add in _data/home.yml
   show_blog: false # show blog posts added in _posts
