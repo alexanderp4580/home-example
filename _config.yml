@@ -10,7 +10,7 @@ remote_theme: abhinavs/moonwalk
 plugins:
   - jekyll-feed
 
-  theme_config:
+theme_config:
   appearance: "auto"
   appearance_toggle: true
   back_home_text: "home.."
